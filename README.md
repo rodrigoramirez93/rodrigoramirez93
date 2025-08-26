@@ -5,10 +5,15 @@ I help companies automate processes with messaging integrations
 🔧 Specializations:
 
 WhatsApp Business API integrations
+
 Payment system automation
+
 Tax compliance integrations
+
 ERP/CRM connectivity
+
 💼 Available for freelance projects | 📧 rramirez.dev@gmail.com
+
 
 💼 Need a Custom Integration?
 
