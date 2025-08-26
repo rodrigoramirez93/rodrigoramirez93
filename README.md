@@ -14,8 +14,8 @@
 I specialize in connecting WhatsApp, payment systems, and business tools for companies looking to streamline their operations.
 
 ### 💻 Tech Stack
-![.NET]([https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/--F7DF1E?style=flat-square&logo=.net&logoColor=black))
-![Azure]([https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/-Azure-F7DF1E?style=flat-square&logo=AZURE&logoColor=black))
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![API](https://img.shields.io/badge/-REST%20APIs-FF6B6B?style=flat-square&logo=api&logoColor=white)
 
