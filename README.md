@@ -1,11 +1,15 @@
-# 🚀 Especialista en Integraciones | WhatsApp • Mercado Pago • AFIP • ERPs • CRMs
+🚀 Integrations Specialist
+I help companies automate processes with messaging integrations
+🔧 Specializations:
 
-**Ayudo a empresas argentinas a automatizar procesos con integraciones de mensajería**
+WhatsApp Business API integrations
+Payment system automation
+Tax compliance integrations
+ERP/CRM connectivity
+💼 Available for freelance projects | 📧 rramirez.dev@gmail.com
 
-🔧 **Especializaciones:**
-- Integraciones con API de WhatsApp Business
-- Automatización de pagos con Mercado Pago  
-- Cumplimiento fiscal AFIP
-- Conectividad ERP/CRM (NetSuite, Dynamics 365)
-
-💼 **Disponible para proyectos freelance** | 📧 rramirez.dev@gmail.com
+💼 Need a Custom Integration?
+I specialize in connecting WhatsApp, payment systems, and business tools for companies.
+📞 Free 30-minute consultation: [[Calendly Link](https://calendly.com/rramirez731/30min)]
+💌 Email: your.email@gmail.com
+🔗 LinkedIn: [https://www.linkedin.com/in/rodrigoramirez93/]
