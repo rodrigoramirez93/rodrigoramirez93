@@ -20,6 +20,6 @@ I specialize in connecting WhatsApp, payment systems, and business tools for com
 ![API](https://img.shields.io/badge/-REST%20APIs-FF6B6B?style=flat-square&logo=api&logoColor=white)
 
 ### 📫 Let's Connect
-- 📞 **Free 30-minute consultation:** [Schedule a call](https://calendly.com/your-link)
+- 📞 **Free 30-minute consultation:** [Schedule a call](https://calendly.com/rramirez731/30min)
 - 📧 **Email:** rramirez.dev@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/rodrigoramirez93](https://www.linkedin.com/in/rodrigoramirez93/)
